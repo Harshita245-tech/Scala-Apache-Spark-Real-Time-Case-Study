@@ -1,0 +1,6 @@
+hotel_id,hotel_name,city,room_type,price_per_night
+H001,Taj Residency,Hyderabad,Deluxe,5000
+H002,Grand Palace,Bangalore,Suite,7500
+H003,Marina Hotel,Chennai,Deluxe,4500
+H004,Sea View Resort,Goa,Premium,6500
+H005,Royal Inn,Mumbai,Standard,3500

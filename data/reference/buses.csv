@@ -1,0 +1,6 @@
+bus_id,operator,source,destination,seat_capacity
+B001,TSRTC,Hyderabad,Bangalore,40
+B002,KSRTC,Bangalore,Chennai,45
+B003,APSRTC,Hyderabad,Chennai,50
+B004,MSRTC,Mumbai,Pune,40
+B005,KSRTC,Chennai,Bangalore,45

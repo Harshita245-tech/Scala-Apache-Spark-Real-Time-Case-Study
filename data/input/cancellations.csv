@@ -1,0 +1,4 @@
+cancellation_id,booking_id,customer_id,cancellation_date,reason,refund_amount
+X001,BK005,C005,2026-09-03,Customer Request,7200
+X002,BK009,C009,2026-09-04,Schedule Change,1500
+X003,BK015,C005,2026-09-06,Customer Request,1100

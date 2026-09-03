@@ -1,0 +1,6 @@
+flight_id,airline,source,destination,seat_capacity
+F001,IndiGo,Hyderabad,Delhi,180
+F002,AirIndia,Bangalore,Mumbai,160
+F003,IndiGo,Chennai,Hyderabad,180
+F004,Vistara,Delhi,Goa,150
+F005,AirIndia,Mumbai,Bangalore,160
